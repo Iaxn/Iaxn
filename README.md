@@ -14,8 +14,7 @@ minha jornada de aprendizado aqui e se desejar explorar meus trabalhos como desi
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iaxn&hide=javascript,html)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iaxn&exclude_repo=github-readme-stats,Iaxn.github.io)
 
 ## Redes Sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianemanuel/)
