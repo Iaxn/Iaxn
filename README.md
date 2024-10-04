@@ -1,8 +1,9 @@
 ## Olá Prazer! Me chamo Ian 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianemanuel/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ianapenas/)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ianemanuel)
+Me chamo Ian Emanuel, atualmente possuo formação em Design Gráfico pelo Centro Universitário Filadélfia, e diversos cursos na área de
+ADS (Análise e desenvolvimento de sistemas), possuo Português fluente e Inglês avançado, pretendo cursar ADS ou Engenharia de Software em
+um futuro próximo, e buscar uma especialização na linguagem C#. Caso queira saber mais sobre meu trabalho, estarei postando projetos durante
+minha jornada de aprendizado aqui e se desejar explorar meus trabalhos como designer gráfico poderá encontrar diversos projetos no behance!
 
 ## Tecnologias que possuo afinidade:
 
@@ -15,11 +16,8 @@
 
 [![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Iaxn&layout=pie)](https://github.com/Iaxn/github-readme-stats)
 
-💻 Desenvolvedor iniciante focado em C#, MySQL, .NET.
 
-
-### 🧒🏻 Sobre mim:
-- 🌍 Me chamo Ian Emanuel, atualmente possuo formação em Design Gráfico pelo Centro Universitário Filadélfia, e diversos cursos na área de
-ADS (Análise e desenvolvimento de sistemas), possuo Português fluente e Inglês avançado, pretendo cursar ADS ou Engenharia de Software em
-um futuro próximo, e buscar uma especialização na linguagem C#. Caso queira saber mais sobre meu trabalho, estarei postando projetos durante
-minha jornada de aprendizado aqui e se desejar explorar meus trabalhos como designer gráfico poderá encontrar diversos projetos no behance!
+## Redes Sociais:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianemanuel/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ianapenas/)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ianemanuel)
