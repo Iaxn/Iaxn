@@ -1,7 +1,7 @@
 ## Olá Prazer! Me chamo Ian 🖐️
 
 Me chamo Ian Emanuel, atualmente possuo formação em Design Gráfico pelo Centro Universitário Filadélfia, e diversos cursos na área de
-ADS (Análise e desenvolvimento de sistemas), possuo Português fluente e Inglês avançado, pretendo cursar ADS ou Engenharia de Software em
+ADS (Análise e desenvolvimento de sistemas), Português nativo e Inglês avançado, pretendo cursar ADS ou Engenharia de Software em
 um futuro próximo, e buscar uma especialização na linguagem C#. Caso queira saber mais sobre meu trabalho, estarei postando projetos durante
 minha jornada de aprendizado aqui e se desejar explorar meus trabalhos como designer gráfico poderá encontrar diversos projetos no behance!
 
@@ -14,7 +14,7 @@ minha jornada de aprendizado aqui e se desejar explorar meus trabalhos como desi
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-[![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Iaxn&layout=pie)](https://github.com/Iaxn/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iaxn&hide=javascript,html)
 
 
 ## Redes Sociais:
